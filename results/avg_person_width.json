@@ -1,0 +1,49 @@
+{
+ "people": [
+  {
+   "id": 4,
+   "avg_person_width": 37.07575757575758
+  },
+  {
+   "id": 11,
+   "avg_person_width": 36.739285714285714
+  },
+  {
+   "id": 1,
+   "avg_person_width": 38.81386861313869
+  },
+  {
+   "id": 8,
+   "avg_person_width": 36.57027027027027
+  },
+  {
+   "id": 3,
+   "avg_person_width": 42.883663366336634
+  },
+  {
+   "id": 17,
+   "avg_person_width": 37.345029239766085
+  },
+  {
+   "id": 20,
+   "avg_person_width": 31.967153284671532
+  },
+  {
+   "id": 27,
+   "avg_person_width": 38.41279069767442
+  },
+  {
+   "id": 24,
+   "avg_person_width": 36.40853658536585
+  },
+  {
+   "id": 28,
+   "avg_person_width": 43.9873417721519
+  },
+  {
+   "id": 23,
+   "avg_person_width": 41.67006802721088
+  }
+ ],
+ "avg_width": 38.35216046787542
+}

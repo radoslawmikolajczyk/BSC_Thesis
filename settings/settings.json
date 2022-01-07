@@ -1,0 +1,59 @@
+{
+ "video_stream": "https://live.uci.agh.edu.pl/video/stream1.cgi?start=1543408695",
+ "results_dir": "C:/Users/USER/Desktop/Agh2/Final/results",
+ "frames_to_analyze": 1200,
+ "characteristics": [
+  "movement_speed",
+  "min_distance",
+  "avg_person_width"
+ ],
+ "roi_points": [
+  [
+   130,
+   718
+  ],
+  [
+   1080,
+   718
+  ],
+  [
+   376,
+   181
+  ],
+  [
+   284,
+   181
+  ],
+  [
+   356,
+   560
+  ],
+  [
+   654,
+   517
+  ],
+  [
+   351,
+   463
+  ]
+ ],
+ "save_frames_every": 50,
+ "roi_for_person_width": [
+  [
+   130,
+   719
+  ],
+  [
+   1000,
+   719
+  ],
+  [
+   1000,
+   455
+  ],
+  [
+   130,
+   455
+  ]
+ ]
+}
